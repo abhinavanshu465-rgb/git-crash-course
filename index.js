@@ -21,9 +21,12 @@ function intro7(){
 function intro8(){
     console.log("welcome6");
 }
+<<<<<<< HEAD
 function intro10(){
     console.log("welcome6");
 }
 function intro11(){
     console.log("welcome6");
 }
+=======
+>>>>>>> parent of 869697a (intro 10)
