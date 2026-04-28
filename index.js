@@ -12,3 +12,6 @@ function intro(){
 function intro3(){
     console.log("welcome2");
 }
+function intro4(){
+    console.log("welcome2");
+}
