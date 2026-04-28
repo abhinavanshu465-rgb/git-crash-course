@@ -9,3 +9,6 @@ const pagal = 18;
 function intro(){
     console.log("welcome");
 }
+function intro2(){
+    console.log("welcome2");
+}
