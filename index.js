@@ -18,6 +18,6 @@ function intro4(){
 function intro7(){
     console.log("welcome6");
 }
-function intro8(){
+function intro9(){
     console.log("welcome6");
 }
