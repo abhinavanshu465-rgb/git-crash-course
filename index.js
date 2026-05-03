@@ -1,6 +1,6 @@
 const age =22;
 let name = "anshu";
-const a= 9;
+const a= 66;
 function f(){
     console.log("Hii");
 }
