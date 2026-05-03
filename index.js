@@ -1,5 +1,5 @@
 const age =25;
-let name = "anshu 2";
+let name = "anshu";
 const a= 9;
 function f(){
     console.log("Hii");
