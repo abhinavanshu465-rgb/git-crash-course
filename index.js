@@ -1,4 +1,4 @@
-const age =25;
+const age =22;
 let name = "anshu";
 const a= 9;
 function f(){
