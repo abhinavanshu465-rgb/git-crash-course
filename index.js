@@ -6,6 +6,7 @@ function f(){
 }
 const x = 99;
 const pagal = 189;
+const pagal = 189;
 function intro(){
     console.log("welcome");
 }
