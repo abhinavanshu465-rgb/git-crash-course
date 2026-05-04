@@ -5,7 +5,7 @@ function f(){
     console.log("Hii");
 }
 const x = 99;
-const pagal = 18;
+const pagal = 189;
 function intro(){
     console.log("welcome");
 }
@@ -24,3 +24,4 @@ function intro7(){
 function intro8(){
     console.log("welcome6");
 }
+const exp = 98;
